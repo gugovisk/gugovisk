@@ -1,6 +1,6 @@
-# Olá, eu sou Marco Castro 
+# Olá, eu sou Gustavo Ramos
 
-```ruby 
+```python 
 class Programmer
 
 	def initialize() 
