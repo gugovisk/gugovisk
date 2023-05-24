@@ -1,7 +1,7 @@
 # Olá, eu sou Gustavo Ramos
 
-```python 
-class Programmer:
+```ruby
+class Programmer
 
 	def initialize() 
 ```
