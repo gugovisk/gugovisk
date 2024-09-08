@@ -1,9 +1,7 @@
 # Olá, eu sou Gustavo Ramos
 
-```ruby
-class Programmer
-
-	def initialize() 
+```r
+class("Gustavo") = Data Science
 ```
 
 <p align="left">
