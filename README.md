@@ -1,7 +1,7 @@
 # Olá, eu sou Gustavo Ramos
 
 ```r
-class("Gustavo") = Data Science
+class(gustavo) = "Data Science"
 ```
 
 <p align="left">
