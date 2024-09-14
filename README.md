@@ -40,6 +40,16 @@ class(gustavo) = "Data Science"
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
         </tr>
         <tr>
+		<tr>
+		<td>2</td>
+            	<td><a href="https://app.powerbi.com/groups/me/reports/ac35389d-5064-4129-8888-1a036ea83fbc?ctid=e4143fff-6a5f-485c-937d-04f282af7544&pbi_source=linkShare"><b>Dashboard - Shopee Eletronics - Brasil</b></a></td>
+		<td>Business / Developer</td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
+        </tr>
+        <tr>
     </tbody>
 </table>
 
